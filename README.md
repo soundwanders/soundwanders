@@ -4,9 +4,8 @@
 Skills: JS / HTML / CSS
 
 - 🦁 I’m building a solid foundation and learning the fundamental concepts of programming as I begin my path to a career as a Software Developer.
-- 📘 I love learning and have a passion for research. I also love animals, art, computers, history, and music. If your project falls under any of those categories, let's get in touch!
 - 🌱 I’m currently learning HTML, CSS, JS, jQuery
-- ⚡ I’m looking to collaborate on open source projects and help test new applications.
+- ⚡ I’m looking to collaborate on open source projects and test new applications.
 - 🎮 I have been been thinking about the path towards building an open source video game console emulator in the future.
 
 [<img src='https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png' alt='github' height='40'>](https://github.com/soundwanders)  [<img src='https://cdn.icon-icons.com/icons2/2554/PNG/512/linkedin_logo_icon_153034.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jared-coletta-205882116/)  

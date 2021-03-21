@@ -4,7 +4,7 @@
 Skills: JS / HTML / CSS
 
 - 🦁 I’m a beginner working on building a solid foundation and learning the fundamental concepts of programming
-- 🌱 I’m currently learning front-end development; HTML, CSS, JS
+- 🌱 I’m currently learning front-end development; HTML, CSS, JavaScript
 - ⚡ I’m looking to collaborate on open source projects
 - 🎮 I am interested in building an open source game console emulator in the future
 

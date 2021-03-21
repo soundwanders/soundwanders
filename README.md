@@ -9,7 +9,7 @@ Skills: JS / HTML / CSS
 - ⚡ I’m looking to collaborate on open source projects and help test new applications.
 - 🎮 I have been been thinking about the path towards building an open source video game console emulator in the future.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/soundwanders)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jared-coletta-205882116/)  
+[<img src='https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png' alt='github' height='40'>](https://github.com/soundwanders)  [<img src='https://cdn.icon-icons.com/icons2/2554/PNG/512/linkedin_logo_icon_153034.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/jared-coletta-205882116/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soundwanders&show_icons=true)  
 

@@ -7,5 +7,3 @@ Skills: JS / HTML / CSS
 - 🌱 I’m currently learning front-end development; HTML, CSS, JavaScript and related frameworks such as Bootstrap, jQuery, React
 - ⚡ I’m looking to collaborate on open source projects and educational materials geared towards beginners
 - 🎮 I am interested in building open source software like a game console emulator in the future
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soundwanders&show_icons=true)  

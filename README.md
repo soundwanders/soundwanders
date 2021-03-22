@@ -3,10 +3,9 @@
 
 Skills: JS / HTML / CSS
 
-- 🦁 I’m a beginner working on building a solid foundation and learning the fundamental concepts of programming
-- 🌱 I’m currently learning front-end development; HTML, CSS, JavaScript
-- ⚡ I’m looking to collaborate on open source projects
-- 🎮 I am interested in building an open source game console emulator in the future
+- 🦁 I’m a working on building a solid foundation, learning the fundamental concepts of programming and implementing them in personal projects
+- 🌱 I’m currently learning front-end development; HTML, CSS, JavaScript and related frameworks such as Bootstrap, jQuery, React
+- ⚡ I’m looking to collaborate on open source projects and educational materials geared towards beginners
+- 🎮 I am interested in building open source software like a game console emulator in the future
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soundwanders&show_icons=true)  
-

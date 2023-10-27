@@ -4,7 +4,7 @@
 ## Hello! 👋
 
 
-- 🔗 Visit my [digital oasis](https://jcoletta.com)
+- 🏝 Visit my [digital oasis](https://jcoletta.com)
 
 - ✍️ Check out my [blog](https://yamabiko.vercel.app/)
 

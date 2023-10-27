@@ -8,5 +8,4 @@
 
 - ✍️ Check out my [blog](https://yamabiko.vercel.app/)
 
-- Feel free to reach out:
-- 📬 [E-mail](mailto:soundwanders@gmail.com)
+- 📬 [E-mail me](mailto:soundwanders@gmail.com)

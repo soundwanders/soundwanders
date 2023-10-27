@@ -8,4 +8,4 @@
 
 - ✍️ Check out my [blog](https://yamabiko.vercel.app/)
 
-- 📬 [E-mail me](mailto:soundwanders@gmail.com)
+- 📬 Send me an [e-mail](mailto:soundwanders@gmail.com)

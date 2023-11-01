@@ -4,8 +4,8 @@
 ## Hello! 👋
 
 
-- 🏝 Visit my [digital oasis](https://jcoletta.com)
+- 🏝 Visit my [digital oasis](https://soundwanders.com)
 
-- ✍️ Check out my [blog](https://yamabiko.vercel.app/)
+- ✍️ Check out my [blog](https://jcoletta.com/)
 
 - 📬 Send me an [e-mail](mailto:soundwanders@gmail.com)

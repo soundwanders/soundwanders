@@ -10,5 +10,3 @@
 <br>
 
 - 🏝 Visit my [digital oasis](https://soundwanders.com)
-
-- ✍️ Check out my [blog](https://jcoletta.com/)

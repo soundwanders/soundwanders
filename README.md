@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/01f67d75-9d93-4992-bdb9-63988aa3b6e2" alt="akira" width="320" />
+<img src="https://github.com/user-attachments/assets/8f71db16-37a7-4493-8bb9-3dfda83779ed" alt="akira" width="340" />
 
 
 ## Hello! 👋

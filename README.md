@@ -9,4 +9,4 @@
 
 <br>
 
-- 🏝 Visit my [digital oasis](https://soundwanders.com)
+🏝 Stop by my [digital oasis](https://soundwanders.com)
